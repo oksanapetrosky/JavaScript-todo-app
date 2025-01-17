@@ -58,3 +58,28 @@ No additional setup is required. Simply include the following SweetAlert2 CDN li
 ```
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 ```
+Future Enhancements
+
+Filter Tasks:
+
+Add options to filter tasks (e.g., all, completed, pending).
+
+Edit Tasks:
+
+Allow users to edit existing tasks.
+
+Dark Mode:
+
+Add a toggle for light and dark themes.
+
+Priority Levels:
+
+Let users assign priorities to tasks.
+Credits
+
+SweetAlert2 Documentation
+
+License
+
+This project is licensed under the MIT License. Feel free to use and modify the code as needed.
+
